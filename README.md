@@ -1,4 +1,4 @@
-# adicto-a-redesV2
+# Adicto-a-redesV2
 
 
 Se pide crear el programa adictos_a_redes2.rb con un método llamado scan_addicts2 que
